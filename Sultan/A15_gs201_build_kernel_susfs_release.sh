@@ -20,7 +20,7 @@ cd "$ROOT_DIR"
 
 # Clone the repositories into the root folder
 echo "Cloning repositories..."
-git clone https://github.com/TheWildJames/android_kernel_google_gs201 -b 15.0.0-sultan
+git clone https://github.com/Rana92-bot/android_kernel_google_gs201-goodies -b 15.0.0-sultan
 git clone https://github.com/TheWildJames/AnyKernel3.git -b 15.0.0-sultan-gs201
 git clone https://gitlab.com/simonpunk/susfs4ksu.git -b gki-android13-5.10
 git clone https://github.com/TheWildJames/kernel_patches.git
